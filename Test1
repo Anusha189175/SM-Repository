@@ -1,0 +1,3 @@
+SELECT EmplID, FiRstName, LastName, Address
+FROM  Employee
+WHERE EmplID = 456;
